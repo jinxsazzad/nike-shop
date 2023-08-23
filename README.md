@@ -1,8 +1,7 @@
-# React + Vite
+# This is a Simple Nike Shop Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I use my tailwind skill to design this site
 
-Currently, two official plugins are available:
+Visit my site and send feedback.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-  [Visit This Site](https://vocal-treacle-45cc20.netlify.app/) 
